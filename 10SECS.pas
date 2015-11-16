@@ -8,7 +8,7 @@ sum:integer;
 
 begin
 
-crlscr;
+clrscr;
 
 writeln('Press enter to start and then press enter again to guess when 10 seconds has passed...');
 readln;
